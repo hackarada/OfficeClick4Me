@@ -1,8 +1,8 @@
 /*		
-		ClickForme.cpp : Popup Handler for fuzzing Peach
+		ClickForme.cpp : Click4Me - Popup Handler While fuzzing   
 		Date:	 Mar 10  2017	 
 		Author : Ermias Bayu,  Addis Ababa,Ethiopia   		
-		
+		Quick PoPUp monitoring  
 		Note : 
 
 		This Code is Specifically Targeted towards MS OFFice - 2007 - WInWord Platform 
@@ -68,10 +68,10 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("#-##########################################################\n\r");
 	printf("#                                                          #\n\r");
-	printf("#    Click4Me : Popup Handler for fuzzing Peach            #\n\r");
+	printf("#    Click4Me : Popup Handler While fuzzing                #\n\r");
 	printf("#    Date:	 Mar 10  2017                              #\n\r");
 	printf("#    Author :  - Ermias Bayu,  Addis Ababa,Ethiopia        #\n\r");
-	printf("#    Peach quick crush monitoring                          #\n\r");
+	printf("#    Quick PoPUp monitoring                                #\n\r");
 	printf("#                                                          #\n\r");
 	printf("#-############### Waching For PopUps #####################-#\n\r");
 
